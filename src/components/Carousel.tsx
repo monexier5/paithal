@@ -3,17 +3,17 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 
 const slides = [
   {
-    url: "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=2000",
-    title: "Welcome to Paithal Hill Resort",
-    subtitle: "Experience Luxury in Nature's Lap"
+    url: "https://paithalhill.com/assets/images/dji-439-1600x900.jpg",
+    title: "Welcome to Paithal Hills",
+    subtitle: "Experience Wilderness"
   },
   {
-    url: "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&w=2000",
-    title: "Luxurious Accommodations",
+    url: "https://paithalhill.com/assets/images/dji-428-2000x1125.jpg",
+    title: "Spacious Accommodations",
     subtitle: "Comfort Meets Elegance"
   },
   {
-    url: "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=2000",
+    url: "https://paithalhill.com/assets/images/dji-420-2000x1125.jpg",
     title: "Breathtaking Views",
     subtitle: "Wake Up to Serenity"
   }
